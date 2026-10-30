@@ -12,9 +12,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/gumjs-string-decoder.git"
+    "url": "https://github.com/frida-packages/gumjs-string-decoder.git"
   },
-  "homepage": "https://github.com/frida/gumjs-string-decoder",
+  "homepage": "https://github.com/frida-packages/gumjs-string-decoder",
   "keywords": [
     "string",
     "decoder"
